@@ -1,16 +1,37 @@
-# freegamesapp
+# FreeGamesApp
 
-A new Flutter project.
+**FreeGamesApp** is a cross-platform application (Windows and Android) designed to help users stay up to date with the latest free game offers and exclusive downloadable content (DLC). It's built for gamers who want to discover time-limited promotions without having to manually browse multiple websites or platforms.
 
-## Getting Started
+- [Web App](https://gamingdeals.netlify.app/)
+- [Landing](https://pyoneerc1.itch.io/free-games-tracker)
+---
 
-This project is a starting point for a Flutter application.
+![Mobile view](img/googlepixel.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Key Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Instant access to active free game offers and promotions in one place.
+- Automatic updates via a custom API built on top of [GamerPower](https://www.gamerpower.com/api).
+- Clean and minimal interface focused solely on time-limited free games and DLC (no permanent free-to-play titles included).
+- Available for both Windows and Android platforms.
+- Open source project with a Flutter-based frontend and Python backend.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+![Mac view](img/mac.png)
+
+---
+
+## Contributing
+
+This is an open-source project. Whether you're looking to contribute code, learn about Flutter and API integration, or suggest improvements—you're welcome to explore the codebase and collaborate.
+
+---
+
+## Acknowledgements
+
+Special thanks to **Colin Schmale**, creator of *War Report for Clash of Clans*, for his support and technical guidance in Flutter development.
+
+---
+
+![Tablet view](img/ipad.png)
