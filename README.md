@@ -6,7 +6,10 @@
 - [Landing](https://pyoneerc1.itch.io/free-games-tracker)
 ---
 
-![Mobile view](img/googlepixel.png)
+<video width="100%" controls autoplay muted loop>
+  <source src="img/googlepixel.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Key Features
 
@@ -16,22 +19,14 @@
 - Available for both Windows and Android platforms.
 - Open source project with a Flutter-based frontend and Python backend.
 
----
-
 ![Mac view](img/mac.png)
-
----
 
 ## Contributing
 
 This is an open-source project. Whether you're looking to contribute code, learn about Flutter and API integration, or suggest improvements—you're welcome to explore the codebase and collaborate.
 
----
-
 ## Acknowledgements
 
 Special thanks to **Colin Schmale**, creator of *War Report for Clash of Clans*, for his support and technical guidance in Flutter development.
-
----
 
 ![Tablet view](img/ipad.png)
