@@ -6,10 +6,7 @@
 - [Landing](https://pyoneerc1.itch.io/free-games-tracker)
 ---
 
-<video width="100%" controls autoplay muted loop>
-  <source src="img/googlepixel.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![googlepixel.gif](img/googlepixel.gif)
 
 ## Key Features
 
