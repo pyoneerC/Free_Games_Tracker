@@ -18,6 +18,9 @@
 
 ![Mac view](img/mac.png)
 
+> [!WARNING]  
+> The app uses a custom wrapper around the Free Games API hosted on a free Render web service. Due to platform limitations, it may exceed its monthly quota and go temporarily offline near the end of the month.
+
 ## Contributing
 
 This is an open-source project. Whether you're looking to contribute code, learn about Flutter and API integration, or suggest improvements—you're welcome to explore the codebase and collaborate.
